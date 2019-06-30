@@ -1,0 +1,23 @@
+{
+  "name": "grpc-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroppy/grpc-sample.git"
+  },
+  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroppy/grpc-sample/issues"
+  },
+  "homepage": "https://github.com/hiroppy/grpc-sample#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^0.5.0",
+    "@grpc/proto-loader": "^0.5.1"
+  }
+}
