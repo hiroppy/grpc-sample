@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hiroppy/grpc-sample#readme",
   "dependencies": {
-    "@grpc/grpc-js": "^0.5.0",
+    "@grpc/grpc-js": "^1.1.8",
     "@grpc/proto-loader": "^0.5.1"
   }
 }
